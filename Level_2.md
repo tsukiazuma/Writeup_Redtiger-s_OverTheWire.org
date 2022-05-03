@@ -18,6 +18,6 @@
 
 - Từ trạng thái trả về, ta có thể suy đoán có thể tấn công boolean ở password. Nhưng câu truy vấn ở dây chưa đúng. Lần này, ta sẽ dùng <code>' or '1'='1</code>
   
- ![CHESSE](img/9.png)
+  ![CHESSE](img/9.png)
 
 - Như vậy, là ta đã đăng nhập thành công.
